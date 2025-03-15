@@ -1,3 +1,3 @@
 # Cat_Hedge_Fund
-A landing Page project showcasing my current knowledge of html and css. The landing page is a silly website about cats running a Hedge Fund. 
+A landing Page showcasing my current knowledge of HTML and CSS. This landing page is a silly website about a Hedge Fund being run by a team of cats. 
 
